@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "html-css-portfolio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
